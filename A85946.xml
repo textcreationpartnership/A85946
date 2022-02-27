@@ -1,0 +1,254 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Touching the subject of supremacy in causes ecclesiastical. Diatriba quædam Oxoniensis cujusdam. Tending to peace and setling, by shewing how the powers civil and ecclesiastical may act in their own sphæres without incroachment on one another. July 12. 1647. Imprimatur John Downame.</title>
+            <author>Geree, John, 1601?-1649.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A85946</idno>
+            <idno type="STC">Wing G601</idno>
+            <idno type="STC">Thomason E398_14</idno>
+            <idno type="STC">ESTC R201689</idno>
+            <idno type="EEBO-CITATION">99862189</idno>
+            <idno type="PROQUEST">99862189</idno>
+            <idno type="VID">114340</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A85946)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 114340)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 63:E398[14])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Touching the subject of supremacy in causes ecclesiastical. Diatriba quædam Oxoniensis cujusdam. Tending to peace and setling, by shewing how the powers civil and ecclesiastical may act in their own sphæres without incroachment on one another. July 12. 1647. Imprimatur John Downame.</title>
+                  <author>Geree, John, 1601?-1649.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by J.F. for Philemon Stephens,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to John Geree by Wing.</note>
+                  <note>Place of publication from Wing.</note>
+                  <note>Annotation on Thomason copy: "July 15".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Royal supremacy (Church of England) --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-04</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2013-04</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:114340:1" rendition="simple:additions"/>
+            <p>Touching the ſubject of SVPREMACY IN Cauſes Eccleſiaſtical.</p>
+            <q>
+               <l>Diatriba quaedam</l>
+               <l>Oxonienſis cujuſdam.</l>
+            </q>
+            <p>Tending to Peace and Setling.</p>
+            <p>BY Shewing how the Powers Civil and Eccle<g ref="char:EOLhyphen"/>ſiaſtical may act in their own Sphaeres without incroachment on one another.</p>
+            <q>
+               <bibl>2 COR. 13.8.</bibl>
+               <p>We can de nothing againſt the truth, but for the truth.</p>
+            </q>
+            <q>
+               <bibl>1 THES. 5.21.</bibl>
+               <p>Prove all things; hold faſt that which is good.</p>
+            </q>
+            <floatingText type="license" xml:lang="eng">
+               <body>
+                  <p>Imprimatur</p>
+                  <closer>
+                     <dateline>
+                        <date>
+                           <hi>July</hi> 12. 1647.</date>
+                     </dateline>
+                     <signed>JOHN DOWNAME.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>Printed by <hi>J.F.</hi> for <hi>Philemon Stephens.</hi> 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:114340:2"/>
+            <pb n="3" facs="tcp:114340:2"/>
+            <head>QUESTION. <hi>Where the Supremacy of Eccleſiaſtical Juriſdiction lieth?</hi>
+            </head>
+            <head type="sub">ANSWER.</head>
+            <p n="1">1. IT is apparent out of Scripture, That Spiritual Cenſures, as well as Preaching and Sacra<g ref="char:EOLhyphen"/>ments, &amp;c. are an Ordinance of God, inſtituted for the edification and falvation of the diſciples and followers of Jeſus Chriſt, <hi>Mat.</hi> 16.19. <hi>Joh.</hi> 20.23. 1 <hi>Cor.</hi> 5.3, 4, 5, 13. 2 <hi>Theſſ.</hi> 3.6, 14. 1 <hi>Tim.</hi> 1.19, 20.</p>
+            <p n="2">2. It is apparent, That theſe Cenſures are formally to be adminiſtred only by Church. Officers, appoint<g ref="char:EOLhyphen"/>ed thereto by Jeſus Chriſt. As the Magiſtrate may not
+<note n="(a)" place="margin">2 Chro. 26.18, 19, 20.</note> Preach, adminiſter the Sacraments, &amp;c. ſo may he not execute Spiritual Cenſures; the Keys of the Kingdom of Heaven were not given to State but Church-Officers, <hi>Mat.</hi> 16.19. <hi>Joh.</hi> 20.23.</p>
+            <p n="3">3. As none can Excommunicate, ſo none can Ab<g ref="char:EOLhyphen"/>ſolve formally, but the Officer that Excommuni<g ref="char:EOLhyphen"/>cateth; he only that bindes can looſe: So that in this reſpect the Supremacy of Power in Spiritual Cauſes may be ſaid to lie in the Church-Officers, becauſe none can formally undo what they have done.</p>
+            <p n="4">4. But now we are to obſerve a true and uſeful di<g ref="char:EOLhyphen"/>ſtinction of a Church in regard of Circumſtances. There 1.
+<note n="(b)" place="margin">
+                  <hi>Merton</hi> of the Church, <hi>cap.</hi> 8. &amp; 9.</note> are private Churches, ſuch are thoſe who exerciſe their communion only in private or ſecretly, as it falls out in places where the Civil Authority doth not countenance, but oppoſe and perſecute true Religion. Thus it was in the Apoſtles times, when the Emperors and chief Governors of States were
+<pb n="4" facs="tcp:114340:3"/>heatheniſh; and thus it is now where the Civil Ma<g ref="char:EOLhyphen"/>giſtrate is heatheniſh or Antichriſtian, and would not allow, but ſeeks to exterminate true Religion. 2. There are publique Churches, when thoſe that profeſs tru<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Religion may and (with the leave, countenance and protection of the State) do exerciſe their Church-communion openly in places allowed, and with other incouragements indulged by the Magiſtrate.</p>
+            <p n="5">5. Where men are forced to hold their communion in private, and ſo have only private Churches: There they practice Religion at their own peril, which they chooſe to do, to obey God rather then men, and there the Eccleſiaſtical Power is ſupreme in man<gap reason="illegible" resp="#MURP" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> of Cenſure, there being no other Power to challenge any thing about it, but what ſeeks not the regulating but the eradication of the true Church and Church-power. But publique Churches may none ſet up in any State without the leave of the Magiſtrate, whoſe Office it is to protect, and ſo muſt have power to judge what Aſſemblies are good, and to be protected, and what not: for be ought to act in his place ratio<g ref="char:EOLhyphen"/>nally, not brutiſhly, and in reference to theſe pub<g ref="char:EOLhyphen"/>lique Churches we muſt diſtinguiſh or obſerve,</p>
+            <p n="6">6 That the Power about Church matters may be conſidered two ways; 1. Either primarily and for<g ref="char:EOLhyphen"/>mally, as it is conſiderable abſolutely in it ſelf; <gap reason="illegible" resp="#MURP" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> se<g ref="char:EOLhyphen"/>condarily, as it is to be acted in a publique Church, authorized and protected by the Civil Magiſtrate of the place or Nation where it is exerciſed: In the for<g ref="char:EOLhyphen"/>mer ſence the Church Officer is ſubordinace to none but to Jeſus Chriſt; but in the latter ſence there's a Supremacy in the Civil Magiſtrate, and to him the Church-Officer is Subordinate: For conſider,</p>
+            <p n="7">7. As it is the duty of the Civil Magiſtrate to <gap reason="illegible" resp="#MURP" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>tect
+<pb n="5" facs="tcp:114340:3"/>and countenance true Religion (it being the im<g ref="char:EOLhyphen"/>provement of his Talent, and he is to ſerve God with all his might) ſo it is his Priviledge, and indeed Duty too, to do it in an intelligent way, that is, by judging of that Religion which is held forth to be protected, whether it be the right or no: For his duty to protect Religion, ingageth him not to protect any but the true Religion only, which he is firſt to diſcern, and then to countenance.</p>
+            <p n="8">8. As ſome Religions are more groſly falſe, ſo ſome parts of a Religion, which for the general is good, may be corrupt or abuſed: In which caſe a Magiſtrate is to provide caution againſt corruption and abuſe, as well as inhibite Religions groſly falſe. As now for that part of Chriſtian Religion, Church-Cenſures, as the Civil Magiſtrate is to ſee, that Cen<g ref="char:EOLhyphen"/>ſures, as well as Word and Sacraments, be diſpenſed: ſo likewiſe is he to take care. That they be not abuſed beyond their intention, either to Spiritual prejudice, by too much rigor or connivance, or to ſerve the wills and humors of men in acting private ſpleen. He may therefore ſet certain Rules to be obſerved in the ex<g ref="char:EOLhyphen"/>erciſe of theſe Cenſures; or appoint certain perſons to overfee the carriage of thoſe Cenſures, or to re<g ref="char:EOLhyphen"/>ceive the Appeals or Complaints of ſuch as ſhall con<g ref="char:EOLhyphen"/>ceive themſelves unjuſtly proceeded againſt: And thoſe that will not accept the exerciſe of their Mini<g ref="char:EOLhyphen"/>ſtery with thoſe cautions, he may chooſe whether he will afford them ſufferance or protection in publique. And for ſuch Cenſures as are paſt in Eccleſiaſtical Ju<g ref="char:EOLhyphen"/>dicatures, contrary to ſuch preſcribed Rules and Cau<g ref="char:EOLhyphen"/>tions, though he cannot make them <hi>Null</hi> or void, be<g ref="char:EOLhyphen"/>cauſe he hath not any formal Eccleſiaſtical power to abſolve or binde; yet he may require the revoking of
+<pb n="6" facs="tcp:114340:4"/>them upon pain of forfeiting his countenance, or to<g ref="char:EOLhyphen"/>leration in publique maner, or places to execute Church functions: And not to obey either in revo<g ref="char:EOLhyphen"/>king the ſentence, or relinquiſhing the uſe of publique Church-functions, is to affront Magiſtracy, and to be guilty of Faction or Sedition; and the reaſon is plain: As the Magiſtrate is to protect Religion, ſo only that which is good, and ſo far as it is good, and of that (ſo far as concerns the exerciſe of his own power) he is to be Judge: If he judge amiſs, the fault is his to be anſwered to God; but we cannot hold what is in the Magiſtrates power to grant or deny, <hi>viZ.</hi> Exerciſe of our Religion in publique againſt his leave, with<g ref="char:EOLhyphen"/>out uſurpation on him, and faction againſt him.</p>
+            <p n="9">9. There's a twofold obligation, 1. Mortal. 2. Le<g ref="char:EOLhyphen"/>gal, the one in <hi>foro dei,</hi> the other in <hi>foro humano.</hi> When the Church-Officer doth his Office aright, and yet obſerve not the cautions preſcribed by the Magi<g ref="char:EOLhyphen"/>ſtrate: The Magiſtrate is bound to ratifie, and not to ſeek to revoke what is done, morally, but not legally, in the court of Heven, but not in <hi>foro humane;</hi> that is, the thing being good, there's a real internal bond upon him to ratifie it, and he cannot neglect it with<g ref="char:EOLhyphen"/>out ſin againſt God: But he is not formally or ex<g ref="char:EOLhyphen"/>ternally bound in reference to men, and therefore in that reſpect he is free to act, with or againſt; and the Church-Officer is bound to ſubmit to the Magi<g ref="char:EOLhyphen"/>ſtrate, not the Magiſtrate to the Church-Officer.</p>
+            <p n="10">10. There's a great deal of difference between thoſe things which a Magiſtrate doth by way of uſurpation, beyond the limits of his power, and thoſe which he doth by corruption, abuſing his power; that is, in things wherein he hath juſt power, if he did ob<g ref="char:EOLhyphen"/>ſerve the rules ſet him of God: in things wherein he
+<pb n="7" facs="tcp:114340:4"/>hath no power, his commands are <hi>Null;</hi> a Chriſtian ſtands not obliged, but where he hath power, but doth abuſe it, there a Chriſtian is to ſubmit himſelf by doing or ſuffering, and ſuffering either the loſs of ſuch priviledges, as are in the Magiſtrates power to in<g ref="char:EOLhyphen"/>dulge or deny; or undergoing ſuch pain as the Ma<g ref="char:EOLhyphen"/>giſtrate ſhall inflict.</p>
+            <p n="11">11. The Church-Officer muſt in this be ſubject and ſubordinate to the Magiſtrate, or the Magiſtrate to the Church-Officers, or elſe there muſt be two ſupremacies acting in the ſame Kingdom. To make the Magiſtrate ſubordinate to the Church-officers, to confirm and act what they decree, is to uſurpe upon him and debaſe him; for though the Church be the more excellent ſociety, or men be under a more ex<g ref="char:EOLhyphen"/>cellent notion as Chriſtians, and Church-Members, then as men and members of a Commonwealth; yet in the world that power which is worldly hath the preheminence, and the other being a ſtranger, needs the protection of this, and in that reſpect muſt yield precedency. Two diſtinct ſupremacies in one King<g ref="char:EOLhyphen"/>dom, cannot be with out claſhing &amp; confuſion, &amp; con<g ref="char:EOLhyphen"/>tinual occaſion of broils,
+<note place="margin">Defenſor Pacis, par. 1. cap 17.</note> as <hi>Marſilius Patavinus</hi> hath proved againſt the Papiſts, and God is the God of peace, not of confuſion; and therefore in the aforeſaid external reſpect, the Church is ſubordinate to the State, and the Church-Officer to the Magiſtrate.</p>
+            <p n="12">12. Hence it will follow, that the Civil Magiſtrate where there is danger of abuſe, may admit a Church Government, though <hi>Jure divino,</hi> with ſuch cautions and Limitations, as may be needful to prevent the abuſe of it, either to the Spiritual, or Civil grievance of the people, and may deny publique liberty to thoſe that refuſe to ſubmit to their cautions: Onely (ſith
+<pb n="8" facs="tcp:114340:5"/>the Magiſtrate, is reſponſible to God, though not to the Church; and its no ſmall offence to interrupt the free lawful uſe of any Ordinance) great care muſt be had by the Magiſtrate, that his cautions hinder not any needful uſe, but only reſtrain <gap reason="illegible" resp="#MURP" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> abuſe of Church-power; and therefore the <gap reason="illegible" resp="#MURP" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ſure of this limiting Church-power, ſhould not be taken from State-intereſt, but that which is <hi>Suprem<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Lex, ſalus populi.</hi> And thus Presbytery may be ſo ſettled, that thoſe ſcarcrows of inconveniences from the tyranny of it, fomented and blown up by the envious enemies of it, may c<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nvincingly appear to be but ſcarcrows indeed; and Presbytery may with<g ref="char:EOLhyphen"/>out fear be cheerfully and with profit imbrac'd.</p>
+            <closer/>
+            <postscript>
+               <opener>
+                  <salute>READER,</salute>
+               </opener>
+               <p>PErceiving not onely deep jealouſie, but mutual and <gap reason="illegible" resp="#MURP" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> of incroachments between the powers Civil and Eccl<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſiaſtical, where<g ref="char:EOLhyphen"/>by the ſetling of the Church, and ſo of the State hath been much re<g ref="char:EOLhyphen"/>tarded, I thought it the duty of every good patriot and lover of <gap reason="illegible" resp="#KEYERS" extent="2 words">
+                     <desc>〈◊◊〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o c<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nttibute what they conceive may have any verture to care this blead<g ref="char:EOLhyphen"/>ing wound; And upon mature deliberation it ſeemed to me, that by a right <gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ating of the queſtion, the rights of both eſtates might be ſo a<gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ted, <gap reason="illegible" resp="#MURP" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> that the power of the Church-Officers in its kinde, may be f<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ll<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#MURP" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> to reſide in them; and yet power of juſt proviſions, be lef<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> to the Magi<g ref="char:EOLhyphen"/>ſtrate, to prevent the abuſe of Eccleſiaſtical power, by any corrupt p<gap reason="illegible" resp="#MURP" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ciples or affection in the miniſters of it, which power the Eccl<gap reason="illegible" resp="#MURP" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#MURP" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> may and ought to allow to the Civil Magiſtrate, it being no incr<gap reason="illegible" resp="#MURP" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ment on the power Eccleſiaſtique, but a cautious bounding the exer<g ref="char:EOLhyphen"/>ciſe of it, in that publique way, in which he cannot act without the countenance, protection, or at leaſt the leave of the Civil Magi<gap reason="illegible" resp="#MURP" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap> This exerciſe I ſubmit to the
+<note n="(c)" place="margin">1 Cor. 14.32.</note> judgement of the godly learned, deſiring that ſo far as upon trial it ſhall be found conſonant to truth, and conducible to peace and mutual concurrence between the two powers, it may be imbraced; or if otherwiſe, yet that it may <gap reason="illegible" resp="#MURP" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ſome other of deeper judgement, to hold out a more excellent way of through ſetling the ſtate of the Church, by removing that unhappy <gap reason="illegible" resp="#MURP" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>, jealouſie of incroachment, between the two powers.</p>
+               <p>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </p>
+            </postscript>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
